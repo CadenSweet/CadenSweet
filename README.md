@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CadenSweet
 - 👀 I’m interested in networking and growing my knowledge of tech
-- 🌱 I’m currently learning Tableau
+- 🌱 I’m currently learning Tableau/SQL and Python
 - 📫 Reach me at cadentellsweet@gmail.com
 
 <!---
