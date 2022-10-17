@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CadenSweet
-- 👀 I’m interested in networking and growing my knowledge of tech
-- 🌱 I’m currently learning Tableau/SQL and Python
-- 📫 Reach me at cadentellsweet@gmail.com
+- 👋 Hi, I’m Caden Sweet
+- 👀 I have recently become certified as a data analyst and I want to continue to grow, learn and connect.
+- 🌱 I’m well versed in Excel, Tableau, SQL and Python.
+- 📫 Reach me at caden.sweet1@gmail.com
 
 <!---
 CadenSweet/CadenSweet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
