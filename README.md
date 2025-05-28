@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Caden Sweet
-- 👀 I'm a CX-focused data analyst working with tools like Medallia and BigQuery to support vertical markets and strengthen customer relationships.
+- 👀 I'm a CX-focused data analyst working with tools like Medallia and BigQuery to support customer relationships.
 - 🌱 I’m well versed in Excel/Google Sheets, SQL, Python, Medallia and learning Qualtrics.
 - 📫 Reach me at caden.sweet1@gmail.com
 
