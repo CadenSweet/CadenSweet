@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Caden Sweet
-- 👀 I have recently become certified as a data analyst and I want to continue to grow, learn and connect.
-- 🌱 I’m well versed in Excel, Tableau, SQL and Python.
+- 👀 I'm a CX-focused data analyst working with tools like Medallia and BigQuery to support vertical markets and strengthen customer relationships.
+- 🌱 I’m well versed in Excel/Google Sheets, SQL, Python, Medallia and learning Qualtrics.
 - 📫 Reach me at caden.sweet1@gmail.com
 
 <!---
